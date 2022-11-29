@@ -1,0 +1,33 @@
+
+    body{ 
+    background-color:rgb(165, 31, 7);
+    }
+     
+    p{
+        color: ghostwhite;
+    }
+    
+    h2{
+        color: #f3f707;
+    }
+    h4{
+        color: rgb(3, 80, 245);
+    }
+    table{
+        border: rgb(12, 153, 172) 5px solid;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    td, th{
+        border: rgb(6, 116, 136) 3px solid;
+    }
+    
+    td{
+        text-align: center;
+    }
+    
+    ul{
+        text-align: center;
+    }
+   
+    
